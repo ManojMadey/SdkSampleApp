@@ -1,0 +1,15 @@
+{
+  "name": "CrossPlatformTextApp",
+  "displayName": "Cross Platform Text App",
+  "version": "1.0.0",
+  "description": "A simple React Native app that displays text on Windows and Android",
+  "author": "Your Name",
+  "license": "MIT",
+  "platforms": [
+    "android",
+    "windows"
+  ],
+  "project": {
+    "projectName": "CrossPlatformTextApp"
+  }
+}
